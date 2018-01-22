@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/SearchDir/.vs/SearchDir/v15
+/SearchDir/SearchDir/bin/Debug
+/SearchDir/SearchDir/obj/Debug
