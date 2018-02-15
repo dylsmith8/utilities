@@ -1,0 +1,1 @@
+[reflection.assemblyname]::GetAssemblyName("${pwd}\myassembly.dll") | fl
